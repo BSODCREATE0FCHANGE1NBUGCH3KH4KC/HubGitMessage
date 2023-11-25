@@ -1,0 +1,2 @@
+x=msgbox("Did you trust the EULA?", 4+0, "NOESCAPE.eula")
+x=msgbox("Windows had a fatal DCOM error. The code is FATALDC0M--*0373-3-*/4*+366+5+6+++3++4-****-. Windows has a high/low chance of crashing.", 0+16, "Windows DCOM Server Host")
